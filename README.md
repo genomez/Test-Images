@@ -1,1 +1,1 @@
-This is a place to run various tests.
+This is a place to run various tests on images and text.
